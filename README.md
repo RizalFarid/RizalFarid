@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Farid Rizals **.<br>
+Perkenalkan nama saya **Farid Rizal**.<br>
 
 Saya seorang **WEB DEVELOPER** di [Dicoding](https://www.dicoding.com/).<br>
 
